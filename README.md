@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="toruk.gif" alt="Toruk Makto" width="900"/>
+</p>
+
 # Hi, I'm Resham 👋
 
 🛡️ Founder @ [AgentSeal](https://github.com/getagentseal) · 📍 Düsseldorf
