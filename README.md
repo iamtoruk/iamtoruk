@@ -14,6 +14,7 @@
 ![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/-MCP-5865F2?style=flat-square&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamtoruk.iamtoruk) 
 
 > 7 years writing embedded C++ for cars that drive themselves. A detour through Web3. Now writing probes that break AI agents before someone else does. Open source by default, because most AI security tooling costs more than the agent it's protecting.
 
