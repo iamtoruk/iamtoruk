@@ -16,7 +16,7 @@
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=iamtoruk.iamtoruk) 
 
-> 7 years writing embedded C++ for cars that drive themselves. A detour through Web3. Now writing probes that break AI agents before someone else does. Open source by default, because most AI security tooling costs more than the agent it's protecting.
+7 years of writing embedded C++ for self-driving cars. A detour through Web3. Now writing probes that break AI agents before someone else does. Open source by default, because most AI security tooling costs more than the agent it's protecting.
 
 ## What I'm building
 
@@ -59,7 +59,7 @@ AI business development platform. Two years in, still running.
 
 > Keep trying.
 
-Nothing I've shipped looked like a hit when I started it. CodeBurn was a five-minute reply to a Reddit complaint, built in two hours, pushed the same day. It's past 2,700 stars now. If I'd waited for "ready," it wouldn't exist.
+Nothing I've shipped looked like a hit when I started it. CodeBurn was a five-minute reply to a Reddit complaint, built in two hours, pushed the same day. It's past 5,700 stars now. If I'd waited for "ready," it wouldn't exist.
 
 <details>
 <summary>A few things about me</summary>
