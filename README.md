@@ -50,7 +50,7 @@ AI business development platform. Two years in, still running.
 
 - **CodeBurn**: Reddit r/ClaudeAI [front page](https://www.reddit.com/r/ClaudeAI/comments/1skqub5/tui_to_see_where_claude_code_tokens_actually_go/), Hacker News front page, picked up by AI tooling channels on YouTube
 - **AgentSeal**: [Snyk Security shout-out](https://x.com/snyksec/status/2034178091455524882) on the MCP Security report
-- 2,700+ stars on codeburn and counting
+- 5,700+ stars on codeburn and counting
 
 ## Connect
 
