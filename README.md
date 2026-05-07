@@ -29,8 +29,10 @@
 - 📊 [**awesome-mcp-security**](https://github.com/AgentSeal/awesome-mcp-security): Security scores for 800+ MCP servers. Re-scored daily.
 - 🔍 [**agentseal-mcp-intel**](https://github.com/AgentSeal/agentseal-mcp-intel): Threat intel feed for the MCP ecosystem.
 
-### Alliance Hub AI
+### Codeburn
+CodeBurn tracks token usage, cost, and performance across 18 AI coding tools.
 
+### Alliance Hub AI
 AI business development platform. Two years in, still running.
 
 ## How I actually work
