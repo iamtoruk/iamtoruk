@@ -32,8 +32,8 @@
 ### Codeburn
 CodeBurn tracks token usage, cost, and performance across 18 AI coding tools.
 
-### Mnemonic
-Local memory layer for AI Agents ( So far LOCOMO benchmark Pure F1 71% and with Judge 78%, BEAM 1M benchmarks 59%)
+### Eywa
+Local memory layer for AI Agents
 
 ### Alliance Hub AI
 AI business development platform. Two years in, still running.
