@@ -45,6 +45,7 @@ Local memory layer for AI Agents
 
 ## Connect
 
+[![codeburn.app](https://img.shields.io/badge/codeburn.app-E05D1A?style=flat-square&logo=safari&logoColor=white)](https://codeburn.app)
 [![agentseal.org](https://img.shields.io/badge/agentseal.org-D97757?style=flat-square&logo=safari&logoColor=white)](https://agentseal.org)
 [![Twitter](https://img.shields.io/badge/@TorukMakto1406-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/TorukMakto1406)
 [![LinkedIn](https://img.shields.io/badge/Resham_Joshi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/resham-joshi92/)
