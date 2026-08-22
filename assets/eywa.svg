@@ -55,10 +55,14 @@
 <text x="26" y="320.3" class="a">                                  XXXXXXXXXXXXXX                                  </text>
 <text x="26" y="326.4" class="a">                                   $XXXXXXXXXXX                                   </text>
 <text x="26" y="332.5" class="a">                                     XXXXXXXX$                                    </text>
-<text x="333.15999999999997" y="150.3" class="t">eywa@local </text><text x="412.9" y="150.3" class="d">───────────────────────────────────────────────</text>
-<text x="333.15999999999997" y="170.3" class="m"> . What: </text><text x="398.4" y="170.3" class="d">................</text><text x="514.4" y="170.3" fill="#e8e6e1" font-size="12">durable local-first agent memory</text>
-<text x="333.15999999999997" y="190.3" class="m"> . Status: </text><text x="412.9" y="190.3" class="d">......................................</text><text x="688.4" y="190.3" fill="#e8e6e1" font-size="12">building</text>
-<text x="333.15999999999997" y="210.3" class="m"> . Stack: </text><text x="405.7" y="210.3" class="d">......................</text><text x="565.2" y="210.3" fill="#e8e6e1" font-size="12">TypeScript · Python · MCP</text>
-<text x="333.15999999999997" y="230.3" class="m"> . AI spend this month: </text><text x="507.2" y="230.3" class="d">.................</text><text x="630.4" y="230.3" fill="#3FBDB4" font-size="12">$8,970 API-equiv</text>
-<text x="333.15999999999997" y="250.3" class="m"> . Biggest bet: </text><text x="449.2" y="250.3" class="d">.......................</text><text x="615.9" y="250.3" fill="#e8e6e1" font-size="12">still in the forge</text>
+<text x="333.15999999999997" y="110.3" class="t">eywa@local </text><text x="412.9" y="110.3" class="d">───────────────────────────────────────────────</text>
+<text x="333.15999999999997" y="130.3" class="m"> . What: </text><text x="398.4" y="130.3" class="d">................</text><text x="514.4" y="130.3" fill="#e8e6e1" font-size="12">memory that survives the session</text>
+<text x="333.15999999999997" y="150.3" class="m"> . Facts: </text><text x="405.7" y="150.3" class="d">..........</text><text x="478.2" y="150.3" fill="#e8e6e1" font-size="12">atomic, each with its verbatim source</text>
+<text x="333.15999999999997" y="170.3" class="m"> . Graph: </text><text x="405.7" y="170.3" class="d">.....................</text><text x="557.9" y="170.3" fill="#e8e6e1" font-size="12">entities linked, queryable</text>
+<text x="333.15999999999997" y="190.3" class="m"> . Lifecycle: </text><text x="434.7" y="190.3" class="d">...................</text><text x="572.4" y="190.3" fill="#e8e6e1" font-size="12">new truth supersedes old</text>
+<text x="333.15999999999997" y="210.3" class="m"> . Dreaming: </text><text x="427.4" y="210.3" class="d">....................</text><text x="572.4" y="210.3" fill="#e8e6e1" font-size="12">background consolidation</text>
+<text x="333.15999999999997" y="230.3" class="m"> . Defense: </text><text x="420.2" y="230.3" class="d">.............</text><text x="514.4" y="230.3" fill="#e8e6e1" font-size="12">provenance beats poisoned memory</text>
+<text x="333.15999999999997" y="250.3" class="m"> . Stack: </text><text x="405.7" y="250.3" class="d">......................</text><text x="565.2" y="250.3" fill="#e8e6e1" font-size="12">TypeScript · Python · MCP</text>
+<text x="333.15999999999997" y="270.3" class="m"> . AI spend this month: </text><text x="507.2" y="270.3" class="d">.................</text><text x="630.4" y="270.3" fill="#3FBDB4" font-size="12">$8,970 API-equiv</text>
+<text x="333.15999999999997" y="290.3" class="m"> . Status: </text><text x="412.9" y="290.3" class="d">.................</text><text x="536.2" y="290.3" fill="#e8e6e1" font-size="12">building · still in the forge</text>
 </svg>

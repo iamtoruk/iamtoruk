@@ -28,7 +28,7 @@ CodeBurn tracks token usage, cost, and performance across 18 AI coding tools.
 <p align="center"><img src="assets/codeburn.svg" alt="codeburn@local" width="780" /></p>
 
 ### Eywa
-Local memory layer for AI Agents
+Durable, local-first memory for AI agents. Not a vector store: Eywa distils conversations into atomic facts, each carrying the verbatim quote it came from, links them into a knowledge graph, and supersedes stale values as the world changes. It consolidates in the background while nothing is running, like dreaming. High-stakes facts keep their provenance, so a poisoned memory gets caught instead of obeyed. Agents wake up knowing what they knew.
 
 <p align="center"><img src="assets/eywa.svg" alt="eywa@local" width="780" /></p>
 
