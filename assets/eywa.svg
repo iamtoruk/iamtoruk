@@ -1,68 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="780" height="365" viewBox="0 0 780 365">
-<defs><linearGradient id="eywag" x1="0" y1="58" x2="0" y2="339" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#7FE8C9"/><stop offset="60%" stop-color="#3FBDB4"/><stop offset="100%" stop-color="#1e7a74"/></linearGradient></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="744" height="297" viewBox="0 0 744 297">
+<defs><linearGradient id="eywag" x1="0" y1="8" x2="0" y2="289" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#7FE8C9"/><stop offset="60%" stop-color="#3FBDB4"/><stop offset="100%" stop-color="#1e7a74"/></linearGradient></defs>
 <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre}
-.a{fill:url(#eywag);font-size:5.6px} .m{fill:#8b8f97;font-size:12px} .d{fill:#33373e;font-size:12px}
-.v{fill:#e8e6e1;font-size:12px} .t{fill:#3FBDB4;font-size:12px;font-weight:bold}</style>
-<rect width="780" height="365" rx="12" fill="#131519"/>
-<rect width="780" height="34" rx="12" fill="#1d2024"/><rect y="22" width="780" height="12" fill="#1d2024"/>
-<circle cx="20" cy="17" r="6" fill="#ff5f57"/>
-<circle cx="40" cy="17" r="6" fill="#febc2e"/>
-<circle cx="60" cy="17" r="6" fill="#28c840"/>
-<text x="390" y="21" text-anchor="middle" class="m" font-size="11">eywa@local</text>
-<text x="26" y="58.0" class="a">                                     $XXXXXX$                                     </text>
-<text x="26" y="64.1" class="a">                                    XXXXXXXXXX                                    </text>
-<text x="26" y="70.2" class="a">                                   XXXXXXXXXXXX                                   </text>
-<text x="26" y="76.3" class="a">                                   XXXXXXXXXXXX                                   </text>
-<text x="26" y="82.4" class="a">                                    XXXXXXXXXXX                                   </text>
-<text x="26" y="88.5" class="a">                   XXXX              XXXXXXXXX             $XXX                   </text>
-<text x="26" y="94.6" class="a">                XXXXXXXXXX            $XXXXX            $XXXXXXXXX                </text>
-<text x="26" y="100.7" class="a">               $XXXXXXXXXX$           $XXXXX            XXXXXXXXXXX               </text>
-<text x="26" y="106.8" class="a">               XXXXXXXXXXX$           $XXXXX           XXXXXXXXXXXX               </text>
-<text x="26" y="112.9" class="a">               XXXXXXXXXXXX           $XXXXX            XXXXXXXXXXX               </text>
-<text x="26" y="119.0" class="a">                XXXXXXXXXX            $XXXXX            XXXXXXXXXX$               </text>
-<text x="26" y="125.1" class="a">                  $XXXXXXX            $XXXXX            XXXXXXX$                  </text>
-<text x="26" y="131.2" class="a">                     XXXXXXX          $XXXXX           XXXXXX                     </text>
-<text x="26" y="137.3" class="a">                      XXXXXXX         $XXXXX         XXXXXXX                      </text>
-<text x="26" y="143.4" class="a">  $XXXXX$$              XXXXXXXX$     $XXXXX     XXXXXXXXXX              $XXXXX$  </text>
-<text x="26" y="149.5" class="a"> XXXXXXXXXX              $XXXXXXXXXX  $XXXXX  XXXXXXXXXXX              XXXXXXXXXX$</text>
-<text x="26" y="155.6" class="a">XXXXXXXXXXXX                XXXXXXXXXX$XXXXXXXXXXXXXX$                $XXXXXXXXXXX</text>
-<text x="26" y="161.7" class="a">XXXXXXXXXXXX                    $XXXXXXXXXXXXXXXXX$                   XXXXXXXXXXXX</text>
-<text x="26" y="167.8" class="a">XXXXXXXXXXXX$                      XXXXXXXXXXXXX                      XXXXXXXXXXXX</text>
-<text x="26" y="173.9" class="a"> XXXXXXXXXXXXX$                     XXXXXXXXXX                     XXXXXXXXXXXXXX </text>
-<text x="26" y="180.0" class="a">        XXXXXXXXXXX                  XXXXXXXX                  XXXXXXXXXXX        </text>
-<text x="26" y="186.1" class="a">           XXXXXXXXXXXXX$             XXXXXX             $XXXXXXXXXXXXX$          </text>
-<text x="26" y="192.2" class="a">              XXXXXXXXXXXXXXXX$       $XXXXX       XXXXXXXXXXXXXXXXX              </text>
-<text x="26" y="198.3" class="a">                  XXXXXXXXXXXXXXXX$   $XXXXX    XXXXXXXXXXXXXXXX                  </text>
-<text x="26" y="204.4" class="a">                         XXXXXXXXXXXX $XXXXX XXXXXXXXXXXX                         </text>
-<text x="26" y="210.5" class="a">   XXXXXX                     XXXXXXXXXXXXXXXXXXXXXX$                    XXXXXXX  </text>
-<text x="26" y="216.6" class="a"> XXXXXXXXXX                      $XXXXXXXXXXXXXXX                      $XXXXXXXXX$</text>
-<text x="26" y="222.7" class="a">XXXXXXXXXXXXXXXXXXXXXXXXXX$        XXXXXXXXXXXX        $XXXXXXXXXXXXXXXXXXXXXXXXXX</text>
-<text x="26" y="228.8" class="a">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX      XXXXXXXXXX      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</text>
-<text x="26" y="234.9" class="a">XXXXXXXXXXX$$$$$$$$$$$XXXXXXXXXX     $XXXXXXX     $XXXXXXXXXX$$$$$$$$$$XXXXXXXXXXX</text>
-<text x="26" y="241.0" class="a"> $XXXXXXXX$               XXXXXXX     XXXXXX      XXXXXX                XXXXXXXXX </text>
-<text x="26" y="247.1" class="a">    XX$$                   XXXXXX     $XXXXX     XXXXXX                   XXXX    </text>
-<text x="26" y="253.2" class="a">                            XXXXXX    $XXXXX     XXXXX                            </text>
-<text x="26" y="259.3" class="a">                           $XXXXX     $XXXXX     XXXXXX                           </text>
-<text x="26" y="265.4" class="a">                          XXXXXX&amp;     $XXXXX      $XXXXX                          </text>
-<text x="26" y="271.5" class="a">                     XXXXXXXXXXX      $XXXXX       XXXXXXXXX$                     </text>
-<text x="26" y="277.6" class="a">                  XXXXXXXXXXXX        $XXXXX        $XXXXXXXXXXX                  </text>
-<text x="26" y="283.7" class="a">                XXXXXXXXXXX           $XXXXX           $XXXXXXXXXX                </text>
-<text x="26" y="289.8" class="a">               XXXXXXX$               $XXXXX                XXXXXXX               </text>
-<text x="26" y="295.9" class="a">              XXXXXX                $XXXXXXXXX                XXXXXX              </text>
-<text x="26" y="302.0" class="a">              $XXXX$               $XXXXXXXXXXX                XXXXXX             </text>
-<text x="26" y="308.1" class="a">              XXXX$               XXXXXXXXXXXXXX               $XXXX              </text>
-<text x="26" y="314.2" class="a">                                  XXXXXXXXXXXXXX                                  </text>
-<text x="26" y="320.3" class="a">                                  XXXXXXXXXXXXXX                                  </text>
-<text x="26" y="326.4" class="a">                                   $XXXXXXXXXXX                                   </text>
-<text x="26" y="332.5" class="a">                                     XXXXXXXX$                                    </text>
-<text x="333.15999999999997" y="110.3" class="t">eywa@local </text><text x="412.9" y="110.3" class="d">───────────────────────────────────────────────</text>
-<text x="333.15999999999997" y="130.3" class="m"> . What: </text><text x="398.4" y="130.3" class="d">................</text><text x="514.4" y="130.3" fill="#e8e6e1" font-size="12">memory that survives the session</text>
-<text x="333.15999999999997" y="150.3" class="m"> . Facts: </text><text x="405.7" y="150.3" class="d">..........</text><text x="478.2" y="150.3" fill="#e8e6e1" font-size="12">atomic, each with its verbatim source</text>
-<text x="333.15999999999997" y="170.3" class="m"> . Graph: </text><text x="405.7" y="170.3" class="d">.....................</text><text x="557.9" y="170.3" fill="#e8e6e1" font-size="12">entities linked, queryable</text>
-<text x="333.15999999999997" y="190.3" class="m"> . Lifecycle: </text><text x="434.7" y="190.3" class="d">...................</text><text x="572.4" y="190.3" fill="#e8e6e1" font-size="12">new truth supersedes old</text>
-<text x="333.15999999999997" y="210.3" class="m"> . Dreaming: </text><text x="427.4" y="210.3" class="d">....................</text><text x="572.4" y="210.3" fill="#e8e6e1" font-size="12">background consolidation</text>
-<text x="333.15999999999997" y="230.3" class="m"> . Defense: </text><text x="420.2" y="230.3" class="d">.............</text><text x="514.4" y="230.3" fill="#e8e6e1" font-size="12">provenance beats poisoned memory</text>
-<text x="333.15999999999997" y="250.3" class="m"> . Stack: </text><text x="405.7" y="250.3" class="d">......................</text><text x="565.2" y="250.3" fill="#e8e6e1" font-size="12">TypeScript · Python · MCP</text>
-<text x="333.15999999999997" y="270.3" class="m"> . AI spend this month: </text><text x="507.2" y="270.3" class="d">.................</text><text x="630.4" y="270.3" fill="#3FBDB4" font-size="12">$8,970 API-equiv</text>
-<text x="333.15999999999997" y="290.3" class="m"> . Status: </text><text x="412.9" y="290.3" class="d">.................</text><text x="536.2" y="290.3" fill="#e8e6e1" font-size="12">building · still in the forge</text>
+.a{fill:url(#eywag);font-size:5.6px} .t{fill:#3FBDB4;font-size:12px;font-weight:bold}
+.m{fill:#57606a;font-size:12px} .d{fill:#d0d7de;font-size:12px} .v{fill:#1f2328;font-size:12px}
+@media (prefers-color-scheme: dark){ .m{fill:#8b8f97} .d{fill:#33373e} .v{fill:#e8e6e1} }</style>
+<text x="8" y="8.0" class="a">                                     $XXXXXX$                                     </text>
+<text x="8" y="14.1" class="a">                                    XXXXXXXXXX                                    </text>
+<text x="8" y="20.2" class="a">                                   XXXXXXXXXXXX                                   </text>
+<text x="8" y="26.3" class="a">                                   XXXXXXXXXXXX                                   </text>
+<text x="8" y="32.4" class="a">                                    XXXXXXXXXXX                                   </text>
+<text x="8" y="38.5" class="a">                   XXXX              XXXXXXXXX             $XXX                   </text>
+<text x="8" y="44.6" class="a">                XXXXXXXXXX            $XXXXX            $XXXXXXXXX                </text>
+<text x="8" y="50.7" class="a">               $XXXXXXXXXX$           $XXXXX            XXXXXXXXXXX               </text>
+<text x="8" y="56.8" class="a">               XXXXXXXXXXX$           $XXXXX           XXXXXXXXXXXX               </text>
+<text x="8" y="62.9" class="a">               XXXXXXXXXXXX           $XXXXX            XXXXXXXXXXX               </text>
+<text x="8" y="69.0" class="a">                XXXXXXXXXX            $XXXXX            XXXXXXXXXX$               </text>
+<text x="8" y="75.1" class="a">                  $XXXXXXX            $XXXXX            XXXXXXX$                  </text>
+<text x="8" y="81.2" class="a">                     XXXXXXX          $XXXXX           XXXXXX                     </text>
+<text x="8" y="87.3" class="a">                      XXXXXXX         $XXXXX         XXXXXXX                      </text>
+<text x="8" y="93.4" class="a">  $XXXXX$$              XXXXXXXX$     $XXXXX     XXXXXXXXXX              $XXXXX$  </text>
+<text x="8" y="99.5" class="a"> XXXXXXXXXX              $XXXXXXXXXX  $XXXXX  XXXXXXXXXXX              XXXXXXXXXX$</text>
+<text x="8" y="105.6" class="a">XXXXXXXXXXXX                XXXXXXXXXX$XXXXXXXXXXXXXX$                $XXXXXXXXXXX</text>
+<text x="8" y="111.7" class="a">XXXXXXXXXXXX                    $XXXXXXXXXXXXXXXXX$                   XXXXXXXXXXXX</text>
+<text x="8" y="117.8" class="a">XXXXXXXXXXXX$                      XXXXXXXXXXXXX                      XXXXXXXXXXXX</text>
+<text x="8" y="123.9" class="a"> XXXXXXXXXXXXX$                     XXXXXXXXXX                     XXXXXXXXXXXXXX </text>
+<text x="8" y="130.0" class="a">        XXXXXXXXXXX                  XXXXXXXX                  XXXXXXXXXXX        </text>
+<text x="8" y="136.1" class="a">           XXXXXXXXXXXXX$             XXXXXX             $XXXXXXXXXXXXX$          </text>
+<text x="8" y="142.2" class="a">              XXXXXXXXXXXXXXXX$       $XXXXX       XXXXXXXXXXXXXXXXX              </text>
+<text x="8" y="148.3" class="a">                  XXXXXXXXXXXXXXXX$   $XXXXX    XXXXXXXXXXXXXXXX                  </text>
+<text x="8" y="154.4" class="a">                         XXXXXXXXXXXX $XXXXX XXXXXXXXXXXX                         </text>
+<text x="8" y="160.5" class="a">   XXXXXX                     XXXXXXXXXXXXXXXXXXXXXX$                    XXXXXXX  </text>
+<text x="8" y="166.6" class="a"> XXXXXXXXXX                      $XXXXXXXXXXXXXXX                      $XXXXXXXXX$</text>
+<text x="8" y="172.7" class="a">XXXXXXXXXXXXXXXXXXXXXXXXXX$        XXXXXXXXXXXX        $XXXXXXXXXXXXXXXXXXXXXXXXXX</text>
+<text x="8" y="178.8" class="a">XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX      XXXXXXXXXX      XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX</text>
+<text x="8" y="184.9" class="a">XXXXXXXXXXX$$$$$$$$$$$XXXXXXXXXX     $XXXXXXX     $XXXXXXXXXX$$$$$$$$$$XXXXXXXXXXX</text>
+<text x="8" y="191.0" class="a"> $XXXXXXXX$               XXXXXXX     XXXXXX      XXXXXX                XXXXXXXXX </text>
+<text x="8" y="197.1" class="a">    XX$$                   XXXXXX     $XXXXX     XXXXXX                   XXXX    </text>
+<text x="8" y="203.2" class="a">                            XXXXXX    $XXXXX     XXXXX                            </text>
+<text x="8" y="209.3" class="a">                           $XXXXX     $XXXXX     XXXXXX                           </text>
+<text x="8" y="215.4" class="a">                          XXXXXX&amp;     $XXXXX      $XXXXX                          </text>
+<text x="8" y="221.5" class="a">                     XXXXXXXXXXX      $XXXXX       XXXXXXXXX$                     </text>
+<text x="8" y="227.6" class="a">                  XXXXXXXXXXXX        $XXXXX        $XXXXXXXXXXX                  </text>
+<text x="8" y="233.7" class="a">                XXXXXXXXXXX           $XXXXX           $XXXXXXXXXX                </text>
+<text x="8" y="239.8" class="a">               XXXXXXX$               $XXXXX                XXXXXXX               </text>
+<text x="8" y="245.9" class="a">              XXXXXX                $XXXXXXXXX                XXXXXX              </text>
+<text x="8" y="252.0" class="a">              $XXXX$               $XXXXXXXXXXX                XXXXXX             </text>
+<text x="8" y="258.1" class="a">              XXXX$               XXXXXXXXXXXXXX               $XXXX              </text>
+<text x="8" y="264.2" class="a">                                  XXXXXXXXXXXXXX                                  </text>
+<text x="8" y="270.3" class="a">                                  XXXXXXXXXXXXXX                                  </text>
+<text x="8" y="276.4" class="a">                                   $XXXXXXXXXXX                                   </text>
+<text x="8" y="282.5" class="a">                                     XXXXXXXX$                                    </text>
+<text x="315.15999999999997" y="60.3" class="t">eywa@local </text><text x="394.9" y="60.3" class="d">───────────────────────────────────────────────</text>
+<text x="315.15999999999997" y="80.3" class="m"> . What: </text><text x="380.4" y="80.3" class="d">................</text><text x="496.4" y="80.3" class="v" font-size="12">memory that survives the session</text>
+<text x="315.15999999999997" y="100.3" class="m"> . Facts: </text><text x="387.7" y="100.3" class="d">..........</text><text x="460.2" y="100.3" class="v" font-size="12">atomic, each with its verbatim source</text>
+<text x="315.15999999999997" y="120.3" class="m"> . Graph: </text><text x="387.7" y="120.3" class="d">.....................</text><text x="539.9" y="120.3" class="v" font-size="12">entities linked, queryable</text>
+<text x="315.15999999999997" y="140.3" class="m"> . Lifecycle: </text><text x="416.7" y="140.3" class="d">...................</text><text x="554.4" y="140.3" class="v" font-size="12">new truth supersedes old</text>
+<text x="315.15999999999997" y="160.3" class="m"> . Dreaming: </text><text x="409.4" y="160.3" class="d">....................</text><text x="554.4" y="160.3" class="v" font-size="12">background consolidation</text>
+<text x="315.15999999999997" y="180.3" class="m"> . Defense: </text><text x="402.2" y="180.3" class="d">.............</text><text x="496.4" y="180.3" class="v" font-size="12">provenance beats poisoned memory</text>
+<text x="315.15999999999997" y="200.3" class="m"> . Stack: </text><text x="387.7" y="200.3" class="d">......................</text><text x="547.2" y="200.3" class="v" font-size="12">TypeScript · Python · MCP</text>
+<text x="315.15999999999997" y="220.3" class="m"> . AI spend this month: </text><text x="489.2" y="220.3" class="d">.................</text><text x="612.4" y="220.3" fill="#3FBDB4" font-size="12">$8,970 API-equiv</text>
+<text x="315.15999999999997" y="240.3" class="m"> . Status: </text><text x="394.9" y="240.3" class="d">.................</text><text x="518.2" y="240.3" class="v" font-size="12">building · still in the forge</text>
 </svg>
