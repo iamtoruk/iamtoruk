@@ -52,12 +52,6 @@ Local memory layer for AI Agents
 <p align="center"><img src="assets/usage.svg" alt="this month, measured by codeburn" width="760" /></p>
 <p align="center"><sub>measured, not vibes — my own usage, tracked by CodeBurn, updated nightly</sub></p>
 
-## Recognition
-
-- **CodeBurn**: Reddit r/ClaudeAI [front page](https://www.reddit.com/r/ClaudeAI/comments/1skqub5/tui_to_see_where_claude_code_tokens_actually_go/), Hacker News front page, picked up by AI tooling channels on YouTube
-- **AgentSeal**: [Snyk Security shout-out](https://x.com/snyksec/status/2034178091455524882) on the MCP Security report
-- 9,500+ stars on codeburn and counting
-
 ## Connect
 
 [![agentseal.org](https://img.shields.io/badge/agentseal.org-D97757?style=flat-square&logo=safari&logoColor=white)](https://agentseal.org)
