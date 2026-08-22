@@ -4,7 +4,7 @@
 
 # Hi, I'm Resham 👋
 
-🛡️ Founder @ [AgentSeal](https://github.com/getagentseal) · 📍 Düsseldorf
+🔥 Founder @ [CodeBurn](https://github.com/getagentseal/codeburn) · 📍 Germany
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -37,7 +37,7 @@ Local memory layer for AI Agents
 - 3 to 4 Claude Code sessions in parallel, every day. The panel below is what that looks like.
 - A research team of AI agents: they surface new attack surfaces, file the tickets, work the research, open the PRs. I review, they iterate. Nothing merges without my word.
 - A separate marketing agent per product.
-- 10+ hour days. Düsseldorf. Mac only. Coffee.
+- 10+ hour days. Germany. Mac only. Coffee.
 - Agentic engineering, not vibe coding. Seven years of debugging embedded C on autonomous vehicles taught me exactly where things break. AI lets me ship faster. It does not let me ship sloppy.
 
 <p align="center"><img src="assets/usage.svg" alt="this month, measured by codeburn" width="760" /></p>
