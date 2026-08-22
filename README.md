@@ -26,11 +26,13 @@
 CodeBurn tracks token usage, cost, and performance across 18 AI coding tools.
 
 <p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/b216f3d392f8e2db182ed95318e9696f912d1338/assets/card-codeburn.svg" alt="codeburn@local" width="780" /></p>
+<p align="center"><a href="https://codeburn.app"><img src="https://img.shields.io/badge/codeburn.app-E05D1A?style=flat-square&logo=safari&logoColor=white" alt="codeburn.app" /></a> <a href="https://github.com/getagentseal/codeburn"><img src="https://img.shields.io/badge/GitHub-9,599★-181717?style=flat-square&logo=github" alt="repo" /></a></p>
 
 ### Eywa
 Durable, local-first memory for AI agents. Not a vector store: Eywa distils conversations into atomic facts, each carrying the verbatim quote it came from, links them into a knowledge graph, and supersedes stale values as the world changes. It consolidates in the background while nothing is running, like dreaming. High-stakes facts keep their provenance, so a poisoned memory gets caught instead of obeyed. Agents wake up knowing what they knew.
 
 <p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/b216f3d392f8e2db182ed95318e9696f912d1338/assets/card-eywa.svg" alt="eywa@local" width="780" /></p>
+<p align="center"><a href="https://eywa.to"><img src="https://img.shields.io/badge/eywa.to-3FBDB4?style=flat-square&logo=safari&logoColor=white" alt="eywa.to" /></a> <a href="https://arxiv.org/abs/2605.30771"><img src="https://img.shields.io/badge/paper-arXiv:2605.30771-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv paper" /></a></p>
 
 ## How I actually work
 
