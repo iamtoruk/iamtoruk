@@ -18,19 +18,19 @@
 
 7 years of writing embedded C++ for self-driving cars. A detour through Web3. Now writing probes that break AI agents before someone else does. Open source by default, because most AI security tooling costs more than the agent it's protecting.
 
-<p align="center"><img src="assets/card-identity.svg" alt="iamtoruk@github" width="780" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/b216f3d392f8e2db182ed95318e9696f912d1338/assets/card-identity.svg" alt="iamtoruk@github" width="780" /></p>
 
 ## What I'm building
 
 ### Codeburn
 CodeBurn tracks token usage, cost, and performance across 18 AI coding tools.
 
-<p align="center"><img src="assets/card-codeburn.svg" alt="codeburn@local" width="780" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/b216f3d392f8e2db182ed95318e9696f912d1338/assets/card-codeburn.svg" alt="codeburn@local" width="780" /></p>
 
 ### Eywa
 Durable, local-first memory for AI agents. Not a vector store: Eywa distils conversations into atomic facts, each carrying the verbatim quote it came from, links them into a knowledge graph, and supersedes stale values as the world changes. It consolidates in the background while nothing is running, like dreaming. High-stakes facts keep their provenance, so a poisoned memory gets caught instead of obeyed. Agents wake up knowing what they knew.
 
-<p align="center"><img src="assets/card-eywa.svg" alt="eywa@local" width="780" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/b216f3d392f8e2db182ed95318e9696f912d1338/assets/card-eywa.svg" alt="eywa@local" width="780" /></p>
 
 ## How I actually work
 
@@ -40,7 +40,7 @@ Durable, local-first memory for AI agents. Not a vector store: Eywa distils conv
 - 10+ hour days. Germany. Mac only. Coffee.
 - Agentic engineering, not vibe coding. Seven years of debugging embedded C on autonomous vehicles taught me exactly where things break. AI lets me ship faster. It does not let me ship sloppy.
 
-<p align="center"><img src="assets/card-usage.svg" alt="this month, measured by codeburn" width="760" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/b216f3d392f8e2db182ed95318e9696f912d1338/assets/card-usage.svg" alt="this month, measured by codeburn" width="760" /></p>
 <p align="center"><sub>measured, not vibes: my own usage, tracked by CodeBurn, updated nightly</sub></p>
 
 ## Connect
