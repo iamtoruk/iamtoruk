@@ -15,6 +15,9 @@ def run(cmd, **kw):
 def gh(path):
     return json.loads(run(["gh", "api", path]))
 
+os.chdir(REPO)
+subprocess.run(["git","pull","--rebase","-q","origin","main"],check=True)
+
 # ---------- data ----------
 month = json.loads(run(["codeburn", "report", "--period", "month", "--format", "json"]))
 models = json.loads(run(["codeburn", "models", "--period", "month", "--format", "json"]))
@@ -131,8 +134,6 @@ o.append("</svg>")
 open(os.path.join(REPO, "assets", "card-usage.svg"), "w").write("\n".join(o))
 
 # ---------- commit if changed, re-pin README ----------
-os.chdir(REPO)
-run(["git", "pull", "--rebase", "-q", "origin", "main"])
 if not subprocess.run(["git", "diff", "--quiet", "--", "assets"]).returncode:
     print("no changes"); sys.exit(0)
 run(["git", "add", "assets"])
