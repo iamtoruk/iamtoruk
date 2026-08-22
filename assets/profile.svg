@@ -51,15 +51,17 @@
 <text x="26" y="314.2" class="a">    ..;;;++++++++++++++++++xx++x++++.        :+++;; :xx+++++++++++++;;;:.         </text>
 <text x="26" y="320.3" class="a">   .:;+++++++++++++++++++++++x+++++++;     .++;;;+;;:++++++++++++++++++;+;..      </text>
 <text x="26" y="326.4" class="a"> ..;++++++++++++++++++++++++++xx+++++++   .:;x+;;;+;:+++++++++++++++++++;+;..     </text>
-<text x="333.15999999999997" y="97.2" class="t">iamtoruk@github </text><text x="449.2" y="97.2" class="d">──────────────────────────────────────────</text>
-<text x="333.15999999999997" y="117.2" class="m"> . Name: </text><text x="398.4" y="117.2" class="d">..........................................</text><text x="702.9" y="117.2" fill="#e8e6e1" font-size="12">Resham</text>
-<text x="333.15999999999997" y="137.2" class="m"> . Uptime: </text><text x="412.9" y="137.2" class="d">....................</text><text x="557.9" y="137.2" fill="#7B8CFF" font-size="12">6 years, 2 months, 28 days</text>
-<text x="333.15999999999997" y="157.2" class="m"> . Builds: </text><text x="412.9" y="157.2" class="d">...............................</text><text x="637.7" y="157.2" fill="#e8e6e1" font-size="12">CodeBurn · Eywa</text>
-<text x="333.15999999999997" y="177.2" class="m"> . Languages: </text><text x="434.7" y="177.2" class="d">.............</text><text x="528.9" y="177.2" fill="#e8e6e1" font-size="12">TypeScript, Python, Swift, C++</text>
-<text x="333.15999999999997" y="197.2" class="m"> . Runtime: </text><text x="420.2" y="197.2" class="d">..............................</text><text x="637.7" y="197.2" fill="#e8e6e1" font-size="12">Node.js · macOS</text>
-<text x="333.15999999999997" y="217.2" class="m"> . Works.With: </text><text x="441.9" y="217.2" class="d">....................</text><text x="586.9" y="217.2" fill="#e8e6e1" font-size="12">Claude, MCP, AI agents</text>
-<text x="333.15999999999997" y="237.2" class="m"> . Philosophy: </text><text x="441.9" y="237.2" class="d">..............................</text><text x="659.4" y="237.2" fill="#e8e6e1" font-size="12">Keep trying.</text>
-<text x="333.15999999999997" y="257.2" class="m"> . AI usage (API-equiv, this month): </text><text x="601.4" y="257.2" class="d">.............</text><text x="695.7" y="257.2" fill="#7B8CFF" font-size="12">$11,477</text>
-<text x="333.15999999999997" y="277.2" class="m"> . Commits: </text><text x="420.2" y="277.2" class="d">........................................</text><text x="710.2" y="277.2" fill="#7B8CFF" font-size="12">7,283</text>
-<text x="333.15999999999997" y="297.2" class="m"> . Followers: </text><text x="434.7" y="297.2" class="d">.........................................</text><text x="731.9" y="297.2" fill="#7B8CFF" font-size="12">54</text>
+<text x="333.15999999999997" y="77.2" class="t">iamtoruk@github </text><text x="449.2" y="77.2" class="d">──────────────────────────────────────────</text>
+<text x="333.15999999999997" y="97.2" class="m"> . Name: </text><text x="398.4" y="97.2" class="d">..........................................</text><text x="702.9" y="97.2" fill="#e8e6e1" font-size="12">Resham</text>
+<text x="333.15999999999997" y="117.2" class="m"> . Founder: </text><text x="420.2" y="117.2" class="d">............</text><text x="507.2" y="117.2" fill="#e8e6e1" font-size="12">AgentSeal · open core AI security</text>
+<text x="333.15999999999997" y="137.2" class="m"> . Location: </text><text x="427.4" y="137.2" class="d">..............................</text><text x="644.9" y="137.2" fill="#e8e6e1" font-size="12">Düsseldorf, DE</text>
+<text x="333.15999999999997" y="157.2" class="m"> . Before: </text><text x="412.9" y="157.2" class="d">............</text><text x="499.9" y="157.2" fill="#7B8CFF" font-size="12">7y embedded C++, self-driving cars</text>
+<text x="333.15999999999997" y="177.2" class="m"> . Detour: </text><text x="412.9" y="177.2" class="d">..........................................</text><text x="717.4" y="177.2" fill="#7B8CFF" font-size="12">Web3</text>
+<text x="333.15999999999997" y="197.2" class="m"> . Now: </text><text x="391.2" y="197.2" class="d">......</text><text x="434.7" y="197.2" fill="#e8e6e1" font-size="12">breaking AI agents before someone else does</text>
+<text x="333.15999999999997" y="217.2" class="m"> . Open.Source: </text><text x="449.2" y="217.2" class="d">...............................</text><text x="673.9" y="217.2" fill="#e8e6e1" font-size="12">by default</text>
+<text x="333.15999999999997" y="237.2" class="m"> . Languages: </text><text x="434.7" y="237.2" class="d">.............</text><text x="528.9" y="237.2" fill="#e8e6e1" font-size="12">TypeScript, Python, Swift, C++</text>
+<text x="333.15999999999997" y="257.2" class="m"> . Philosophy: </text><text x="441.9" y="257.2" class="d">..............................</text><text x="659.4" y="257.2" fill="#e8e6e1" font-size="12">Keep trying.</text>
+<text x="333.15999999999997" y="277.2" class="m"> . AI usage (API-equiv, this month): </text><text x="601.4" y="277.2" class="d">.............</text><text x="695.7" y="277.2" fill="#7B8CFF" font-size="12">$11,477</text>
+<text x="333.15999999999997" y="297.2" class="m"> . Commits: </text><text x="420.2" y="297.2" class="d">........................................</text><text x="710.2" y="297.2" fill="#7B8CFF" font-size="12">7,283</text>
+<text x="333.15999999999997" y="317.2" class="m"> . Followers: </text><text x="434.7" y="317.2" class="d">.........................................</text><text x="731.9" y="317.2" fill="#7B8CFF" font-size="12">54</text>
 </svg>
