@@ -18,6 +18,8 @@
 
 7 years of writing embedded C++ for self-driving cars. A detour through Web3. Now writing probes that break AI agents before someone else does. Open source by default, because most AI security tooling costs more than the agent it's protecting.
 
+<p align="center"><img src="assets/profile.svg" alt="iamtoruk@github" width="780" /></p>
+
 ## What I'm building
 
 ### AgentSeal (open core security for AI agents)
@@ -32,8 +34,12 @@
 ### Codeburn
 CodeBurn tracks token usage, cost, and performance across 18 AI coding tools.
 
+<p align="center"><img src="assets/codeburn.svg" alt="codeburn@local" width="780" /></p>
+
 ### Eywa
 Local memory layer for AI Agents
+
+<p align="center"><img src="assets/eywa.svg" alt="eywa@local" width="780" /></p>
 
 ### Alliance Hub AI
 AI business development platform. Two years in, still running.
@@ -46,11 +52,14 @@ AI business development platform. Two years in, still running.
 - 10+ hour days. Düsseldorf. Mac only. Coffee.
 - Agentic engineering, not vibe coding. Seven years of debugging embedded C on autonomous vehicles taught me where things break. AI lets me ship faster. It does not let me ship sloppy.
 
+<p align="center"><img src="assets/usage.svg" alt="this month, measured by codeburn" width="760" /></p>
+<p align="center"><sub>measured, not vibes — my own usage, tracked by CodeBurn, updated nightly</sub></p>
+
 ## Recognition
 
 - **CodeBurn**: Reddit r/ClaudeAI [front page](https://www.reddit.com/r/ClaudeAI/comments/1skqub5/tui_to_see_where_claude_code_tokens_actually_go/), Hacker News front page, picked up by AI tooling channels on YouTube
 - **AgentSeal**: [Snyk Security shout-out](https://x.com/snyksec/status/2034178091455524882) on the MCP Security report
-- 7,700+ stars on codeburn and counting
+- 9,500+ stars on codeburn and counting
 
 ## Connect
 
@@ -64,7 +73,7 @@ AI business development platform. Two years in, still running.
 
 > Keep trying.
 
-Nothing I've shipped looked like a hit when I started it. CodeBurn was a five-minute reply to a Reddit complaint, built in two hours, pushed the same day. It's past 5,700 stars now. If I'd waited for "ready," it wouldn't exist.
+Nothing I've shipped looked like a hit when I started it. CodeBurn was a five-minute reply to a Reddit complaint, built in two hours, pushed the same day. It's past 9,500 stars now. If I'd waited for "ready," it wouldn't exist.
 
 <details>
 <summary>A few things about me</summary>
