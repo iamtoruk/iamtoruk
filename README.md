@@ -41,9 +41,6 @@ Local memory layer for AI Agents
 
 <p align="center"><img src="assets/eywa.svg" alt="eywa@local" width="780" /></p>
 
-### Alliance Hub AI
-AI business development platform. Two years in, still running.
-
 ## How I actually work
 
 - 3 to 4 Claude Code sessions running in parallel on any given day
