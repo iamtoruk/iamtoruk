@@ -58,12 +58,3 @@ Local memory layer for AI Agents
 
 Nothing I've shipped looked like a hit when I started it. CodeBurn was a five-minute reply to a Reddit complaint, built in two hours, pushed the same day. It's past 9,500 stars now. If I'd waited for "ready," it wouldn't exist.
 
-<details>
-<summary>A few things about me</summary>
-
-- My handle "Toruk Makto" is from Avatar. Jake Sully's title when he'd earned the clans' trust and brought them together. The character stuck.
-- English, German, Hindi, Gujarati. Depends who's in the room.
-- Ex-Porsche / Audi. Senior software engineer, autonomous driving division. C++ on cars that decide when to brake.
-- Master's in Automotive Software Engineering from TU Chemnitz.
-
-</details>
