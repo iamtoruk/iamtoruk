@@ -34,14 +34,14 @@ Local memory layer for AI Agents
 
 ## How I actually work
 
-- 3 to 4 Claude Code sessions running in parallel on any given day
-- A research team of AI agents that surface new attack surfaces, file tickets, work the research, open PRs. I review and merge; they iterate.
-- Separate set of marketing agents, one per product.
+- 3 to 4 Claude Code sessions in parallel, every day. The panel below is what that looks like.
+- A research team of AI agents: they surface new attack surfaces, file the tickets, work the research, open the PRs. I review, they iterate. Nothing merges without my word.
+- A separate marketing agent per product.
 - 10+ hour days. Düsseldorf. Mac only. Coffee.
-- Agentic engineering, not vibe coding. Seven years of debugging embedded C on autonomous vehicles taught me where things break. AI lets me ship faster. It does not let me ship sloppy.
+- Agentic engineering, not vibe coding. Seven years of debugging embedded C on autonomous vehicles taught me exactly where things break. AI lets me ship faster. It does not let me ship sloppy.
 
 <p align="center"><img src="assets/usage.svg" alt="this month, measured by codeburn" width="760" /></p>
-<p align="center"><sub>measured, not vibes — my own usage, tracked by CodeBurn, updated nightly</sub></p>
+<p align="center"><sub>measured, not vibes: my own usage, tracked by CodeBurn, updated nightly</sub></p>
 
 ## Connect
 
