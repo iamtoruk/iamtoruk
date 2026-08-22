@@ -22,15 +22,6 @@
 
 ## What I'm building
 
-### AgentSeal (open core security for AI agents)
-
-300+ probes. Skill + MCP config scanners. Live tool-poisoning audits. FSL-1.1 licensed. Priced at roughly 5 to 10% of what enterprise incumbents charge, because the teams who need this most aren't the F500.
-
-- 🔥 [**codeburn**](https://github.com/AgentSeal/codeburn): See where your AI coding tokens go. Claude Code, Codex, Cursor. Native macOS menubar.
-- 🛡️ [**agentseal**](https://github.com/AgentSeal/agentseal): The core security toolkit. Prompt injection probes, skill + MCP scanners, supply chain checks.
-- 📊 [**awesome-mcp-security**](https://github.com/AgentSeal/awesome-mcp-security): Security scores for 800+ MCP servers. Re-scored daily.
-- 🔍 [**agentseal-mcp-intel**](https://github.com/AgentSeal/agentseal-mcp-intel): Threat intel feed for the MCP ecosystem.
-
 ### Codeburn
 CodeBurn tracks token usage, cost, and performance across 18 AI coding tools.
 
