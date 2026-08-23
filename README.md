@@ -23,7 +23,7 @@
 ## What I'm building
 
 ### Codeburn
-CodeBurn tracks token usage, cost, and performance across 18 AI coding tools.
+CodeBurn tracks token usage, cost, and performance across 40 AI coding tools.
 
 <p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/cc93d449b222c1f7ef8b18b4bc2325af83581495/assets/card-codeburn.svg" alt="codeburn@local" width="780" /></p>
 <p align="center"><a href="https://codeburn.app"><img src="https://img.shields.io/badge/codeburn.app-E05D1A?style=flat-square&logo=safari&logoColor=white" alt="codeburn.app" /></a> <a href="https://github.com/getagentseal/codeburn"><img src="https://img.shields.io/badge/GitHub-9,600★-181717?style=flat-square&logo=github" alt="repo" /></a></p>
