@@ -49,10 +49,10 @@
 <text x="315.15999999999997" y="67.2" class="t">codeburn@local </text><text x="423.9" y="67.2" class="d">───────────────────────────────────────────</text>
 <text x="315.15999999999997" y="87.2" class="m"> . What: </text><text x="380.4" y="87.2" class="d">.................</text><text x="503.7" y="87.2" class="v" font-size="12">AI agent usage &amp; cost analytics</text>
 <text x="315.15999999999997" y="107.2" class="m"> . Users: </text><text x="387.7" y="107.2" class="d">.......................................</text><text x="670.4" y="107.2" fill="#F0793B" font-size="12">150,000+</text>
-<text x="315.15999999999997" y="127.2" class="m"> . Stars: </text><text x="387.7" y="127.2" class="d">..........................................</text><text x="692.2" y="127.2" fill="#F0793B" font-size="12">9,669</text>
-<text x="315.15999999999997" y="147.2" class="m"> . Forks: </text><text x="387.7" y="147.2" class="d">............................................</text><text x="706.7" y="147.2" fill="#F0793B" font-size="12">767</text>
+<text x="315.15999999999997" y="127.2" class="m"> . Stars: </text><text x="387.7" y="127.2" class="d">..........................................</text><text x="692.2" y="127.2" fill="#F0793B" font-size="12">9,689</text>
+<text x="315.15999999999997" y="147.2" class="m"> . Forks: </text><text x="387.7" y="147.2" class="d">............................................</text><text x="706.7" y="147.2" fill="#F0793B" font-size="12">769</text>
 <text x="315.15999999999997" y="167.2" class="m"> . Stack: </text><text x="387.7" y="167.2" class="d">........................</text><text x="561.7" y="167.2" class="v" font-size="12">TS · Node · Swift · C++</text>
 <text x="315.15999999999997" y="187.2" class="m"> . Privacy: </text><text x="402.2" y="187.2" class="d">...................................</text><text x="655.9" y="187.2" fill="#F0793B" font-size="12">100% local</text>
-<text x="315.15999999999997" y="207.2" class="m"> . AI spend this month: </text><text x="489.2" y="207.2" class="d">.................</text><text x="612.4" y="207.2" fill="#F0793B" font-size="12">$3,945 API-equiv</text>
+<text x="315.15999999999997" y="207.2" class="m"> . AI spend this month: </text><text x="489.2" y="207.2" class="d">.................</text><text x="612.4" y="207.2" fill="#F0793B" font-size="12">$3,951 API-equiv</text>
 <text x="315.15999999999997" y="227.2" class="m"> . (it tracks its own construction)</text>
 </svg>
