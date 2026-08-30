@@ -56,8 +56,8 @@
 <text x="315.15999999999997" y="160.0" class="m"> . Open.Source: </text><text x="431.2" y="160.0" class="d">...............................</text><text x="655.9" y="160.0" class="v" font-size="12">by default</text>
 <text x="315.15999999999997" y="180.0" class="m"> . Languages: </text><text x="416.7" y="180.0" class="d">.............</text><text x="510.9" y="180.0" class="v" font-size="12">TypeScript, Python, Swift, C++</text>
 <text x="315.15999999999997" y="200.0" class="m"> . Philosophy: </text><text x="423.9" y="200.0" class="d">..............................</text><text x="641.4" y="200.0" class="v" font-size="12">Keep trying.</text>
-<text x="315.15999999999997" y="220.0" class="m"> . AI usage (API-equiv, this month): </text><text x="583.4" y="220.0" class="d">.............</text><text x="677.7" y="220.0" fill="#7B8CFF" font-size="12">$15,393</text>
-<text x="315.15999999999997" y="240.0" class="m"> . Commits: </text><text x="402.2" y="240.0" class="d">........................................</text><text x="692.2" y="240.0" fill="#7B8CFF" font-size="12">8,634</text>
-<text x="315.15999999999997" y="260.0" class="m"> . PRs: </text><text x="373.2" y="260.0" class="d">.................................</text><text x="612.4" y="260.0" fill="#7B8CFF" font-size="12">567 · 526 merged</text>
+<text x="315.15999999999997" y="220.0" class="m"> . AI usage (API-equiv, this month): </text><text x="583.4" y="220.0" class="d">.............</text><text x="677.7" y="220.0" fill="#7B8CFF" font-size="12">$16,167</text>
+<text x="315.15999999999997" y="240.0" class="m"> . Commits: </text><text x="402.2" y="240.0" class="d">........................................</text><text x="692.2" y="240.0" fill="#7B8CFF" font-size="12">8,699</text>
+<text x="315.15999999999997" y="260.0" class="m"> . PRs: </text><text x="373.2" y="260.0" class="d">.................................</text><text x="612.4" y="260.0" fill="#7B8CFF" font-size="12">572 · 542 merged</text>
 <text x="315.15999999999997" y="280.0" class="m"> . Followers: </text><text x="416.7" y="280.0" class="d">.........................................</text><text x="713.9" y="280.0" fill="#7B8CFF" font-size="12">54</text>
 </svg>

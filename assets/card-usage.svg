@@ -4,9 +4,9 @@
 .m{fill:#57606a;font-size:12px} .d{fill:#d0d7de;font-size:12px} .v{fill:#1f2328;font-size:12px}
 @media (prefers-color-scheme: dark){ .m{fill:#8b8f97} .d{fill:#33373e} .v{fill:#e8e6e1} }</style>
 <text x="8" y="20" class="t">ai.agents@month · top 3 </text><text x="182" y="20" class="d">────────────────────────────────────────────────────────────────────────</text>
-<text x="8" y="40" class="m"> claude    </text><text x="88" y="40" fill="#F0793B">██████████████████████████</text><text x="291" y="40" class="v">$14,026.35</text>
+<text x="8" y="40" class="m"> claude    </text><text x="88" y="40" fill="#F0793B">██████████████████████████</text><text x="291" y="40" class="v">$14,800.18</text>
 <text x="8" y="60" class="m"> kimicode  </text><text x="88" y="60" fill="#B08BEB">█</text><text x="291" y="60" class="v">$767.43</text>
-<text x="8" y="80" class="m"> opencode  </text><text x="88" y="80" fill="#8b8f97">█</text><text x="291" y="80" class="v">$12.99</text>
-<text x="8" y="106" class="m"> last 14 days </text><text x="110" y="106" fill="#F0793B" font-size="14">▄▆▄▆▆▁█▆▄█▆▁▁▃</text><text x="237" y="106" class="m"> peak $1,166/day</text>
-<text x="8" y="126" class="m"> month </text><text x="59" y="126" class="v">$15,393 API-equiv · 101,380 calls · </text><text x="320" y="126" fill="#6BCB77">99.5% cache hit</text>
+<text x="8" y="80" class="m"> opencode  </text><text x="88" y="80" fill="#8b8f97">█</text><text x="291" y="80" class="v">$16.17</text>
+<text x="8" y="106" class="m"> last 14 days </text><text x="110" y="106" fill="#F0793B" font-size="14">▄▆▆▁█▆▄█▆▁▁▅▂▂</text><text x="237" y="106" class="m"> peak $1,166/day</text>
+<text x="8" y="126" class="m"> month </text><text x="59" y="126" class="v">$16,167 API-equiv · 105,525 calls · </text><text x="320" y="126" fill="#6BCB77">99.5% cache hit</text>
 </svg>
