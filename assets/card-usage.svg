@@ -1,11 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="760" height="124" viewBox="0 0 760 124">
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="144" viewBox="0 0 760 144">
 <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre;font-size:12px}
 .t{fill:#F0793B;font-weight:bold}
 .m{fill:#57606a;font-size:12px} .d{fill:#d0d7de;font-size:12px} .v{fill:#1f2328;font-size:12px}
 @media (prefers-color-scheme: dark){ .m{fill:#8b8f97} .d{fill:#33373e} .v{fill:#e8e6e1} }</style>
 <text x="8" y="20" class="t">ai.agents@month · top 3 </text><text x="182" y="20" class="d">────────────────────────────────────────────────────────────────────────</text>
-<text x="8" y="40" class="m"> claude    </text><text x="88" y="40" fill="#F0793B">██████████████████████████</text><text x="291" y="40" class="v">$1,037.49</text>
+<text x="8" y="40" class="m"> claude    </text><text x="88" y="40" fill="#F0793B">██████████████████████████</text><text x="291" y="40" class="v">$1,496.71</text>
 <text x="8" y="60" class="m"> kimicode  </text><text x="88" y="60" fill="#B08BEB">█</text><text x="291" y="60" class="v">$25.65</text>
-<text x="8" y="86" class="m"> last 14 days </text><text x="110" y="86" fill="#F0793B" font-size="14">█▃</text><text x="142" y="86" class="m"> peak $916/day</text>
-<text x="8" y="106" class="m"> month </text><text x="59" y="106" class="v">$1,202 API-equiv · 3,371 calls · </text><text x="298" y="106" fill="#6BCB77">99.9% cache hit</text>
+<text x="8" y="80" class="m"> cursor-agent</text><text x="88" y="80" fill="#8b8f97">█</text><text x="291" y="80" class="v">$0.01</text>
+<text x="8" y="106" class="m"> last 14 days </text><text x="110" y="106" fill="#F0793B" font-size="14">█▅▂</text><text x="150" y="106" class="m"> peak $916/day</text>
+<text x="8" y="126" class="m"> month </text><text x="59" y="126" class="v">$1,661 API-equiv · 6,959 calls · </text><text x="298" y="126" fill="#6BCB77">99.9% cache hit</text>
 </svg>
