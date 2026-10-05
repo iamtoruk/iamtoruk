@@ -118,11 +118,12 @@ o = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height:.
      f'.t{{fill:#F0793B;font-weight:bold}}\n{THEME}</style>']
 y = 8 + D_FS; hdr = "ai.agents@month · top 3 "
 o.append(f'<text x="{PAD}" y="{y}" class="t">{hdr}</text><text x="{PAD+len(hdr)*D_CW:.0f}" y="{y}" class="d">{"─"*(96-len(hdr))}</text>'); y += D_LH
+LW = max([10] + [len(n) for n, _ in top3]) + 1
 for name, cost in top3:
     nb = max(1, round(cost / maxc * BARW)); bars = "█" * nb
-    o.append(f'<text x="{PAD}" y="{y}" class="m"> {name:<10}</text>'
-             f'<text x="{PAD+11*D_CW:.0f}" y="{y}" fill="{PCOL.get(name, "#8b8f97")}">{bars}</text>'
-             f'<text x="{PAD+(11+BARW+2)*D_CW:.0f}" y="{y}" class="v">${cost:,.2f}</text>'); y += D_LH
+    o.append(f'<text x="{PAD}" y="{y}" class="m"> {name:<{LW - 1}}</text>'
+             f'<text x="{PAD+(LW+1)*D_CW:.0f}" y="{y}" fill="{PCOL.get(name, "#8b8f97")}">{bars}</text>'
+             f'<text x="{PAD+(LW+1+BARW+2)*D_CW:.0f}" y="{y}" class="v">${cost:,.2f}</text>'); y += D_LH
 y += 6
 o.append(f'<text x="{PAD}" y="{y}" class="m"> last 14 days </text>'
          f'<text x="{PAD+14*D_CW:.0f}" y="{y}" fill="#F0793B" font-size="14">{spark}</text>'
