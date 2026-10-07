@@ -27,7 +27,7 @@ mcost = ov.get("cost", 0); mcalls = ov.get("calls", 0); mcache = ov.get("cacheHi
 prov = {}
 for r in mrows: prov[r.get("provider", "?")] = prov.get(r.get("provider", "?"), 0) + (r.get("costUSD") or r.get("cost") or 0)
 top3 = sorted(prov.items(), key=lambda kv: -kv[1])[:3]
-proj = {"eywa": 0.0, "codeburn": 0.0}
+proj = {"eywa": 0.0, "codeburn": 0.0, "crewroom": 0.0}
 for p in (month.get("projects") or []):
     n = (p.get("project") or p.get("name") or "").lower()
     for k in proj:
@@ -113,6 +113,7 @@ card("card-crewroom.svg", "crwg", "crewroom@local", ART["crewroom"], [
     ("Isolation", "one task = one worktree = one PR"), ("Crew", "orchestrator, bots, merge train"),
     ("Insight", "cost, context and quota per session"), ("Memory", "shared across agents, local only"),
     ("Stack", "TypeScript · Bun · React · Tauri"), ("Privacy", "100% local"),
+    ("AI spend this month", f"${proj['crewroom']:,.0f} API-equiv"),
     ("Status", "building · not public yet"),
 ], "#4CC38A", [("0%", "#A6F0B0"), ("50%", "#4CC38A"), ("100%", "#1f7a55")])
 
