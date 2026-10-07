@@ -1,50 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="744" height="217" viewBox="0 0 744 217">
-<defs><linearGradient id="crwg" x1="0" y1="8" x2="0" y2="209" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#A6F0B0"/><stop offset="50%" stop-color="#4CC38A"/><stop offset="100%" stop-color="#1f7a55"/></linearGradient></defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="744" height="236" viewBox="0 0 744 236">
+<defs><linearGradient id="crwg" x1="0" y1="17" x2="0" y2="219" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#A6F0B0"/><stop offset="50%" stop-color="#4CC38A"/><stop offset="100%" stop-color="#1f7a55"/></linearGradient></defs>
 <style>text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;white-space:pre}
 .a{fill:url(#crwg);font-size:5.6px} .t{fill:#4CC38A;font-size:12px;font-weight:bold}
 .m{fill:#57606a;font-size:12px} .d{fill:#d0d7de;font-size:12px} .v{fill:#1f2328;font-size:12px}
 @media (prefers-color-scheme: dark){ .m{fill:#8b8f97} .d{fill:#33373e} .v{fill:#e8e6e1} }</style>
-<text x="8" y="8.0" class="a">                                      :--:                                        </text>
-<text x="8" y="14.1" class="a">                               -*@@@@@@@@@@@@@#=-:                                </text>
-<text x="8" y="20.2" class="a">                           :#@@@@@@@@@@@@@@@@#**=---.                             </text>
-<text x="8" y="26.3" class="a">                         *@@@@@@@@@@@@@@@@@@@@@@@@%=                              </text>
-<text x="8" y="32.4" class="a">                      :@@@@@@@@@@@@@@@@@@@#=+##@@@@@-.                            </text>
-<text x="8" y="38.5" class="a">                    -@@@@@@@@@@@@@@:              .*@@@*:=.                       </text>
-<text x="8" y="44.6" class="a">                   %@@@@@@@@@@@@-                     .=*+                        </text>
-<text x="8" y="50.7" class="a">                 -@@@@@@@@@@*.                            --                      </text>
-<text x="8" y="56.8" class="a">                =@@@@@@@@@@-                               --                     </text>
-<text x="8" y="62.9" class="a">               -@@@@@@@@@-                                   .                    </text>
-<text x="8" y="69.0" class="a">               @@@@@@@@@-               -*+-                                      </text>
-<text x="8" y="75.1" class="a">              @@@@@@@@@*              %@@@@@@+                                    </text>
-<text x="8" y="81.2" class="a">             *@@@@@@@@*              =@@@@@@@@                                    </text>
-<text x="8" y="87.3" class="a">             @@@@@@@@@:              :@@@@@@@*                     +              </text>
-<text x="8" y="93.4" class="a">            .@@@@@@@@-                 %@@@@:                    :+@@             </text>
-<text x="8" y="99.5" class="a">            #@@@@@@@@                                            %@@@-            </text>
-<text x="8" y="105.6" class="a">            %@@@@@@@@.                                           %@@@@            </text>
-<text x="8" y="111.7" class="a">            =@@@@@@@@-                                          .@@@@@            </text>
-<text x="8" y="117.8" class="a">            :@@@@@@@@=        *@@@@-            #@@@%:          *@@@@@            </text>
-<text x="8" y="123.9" class="a">             @@@@@@@@+      :@@@@@@@=         .@@@@@@@*        :@@@@@@            </text>
-<text x="8" y="130.0" class="a">             @@@@@@@@@      +@@@@@@@#         *@@@@@@@*        =@@@@@@            </text>
-<text x="8" y="136.1" class="a">             :@@@@@@@@*      @@@@@@@           @@@@@@#        +@@@@@@-            </text>
-<text x="8" y="142.2" class="a">              @@@@@@@@@-       =#=               +*:         =*@@@@@#             </text>
-<text x="8" y="148.3" class="a">              .@@@@@@@@@-                                   *@@@@@@@              </text>
-<text x="8" y="154.4" class="a">               :@@@@@@@@@#                                =@@@@@@@@               </text>
-<text x="8" y="160.5" class="a">                +@@@@@@@@@@%                            =@@@@@@@@#                </text>
-<text x="8" y="166.6" class="a">                 -@@@@@@@@@@@@=                      :*@@@@@@@@@.                 </text>
-<text x="8" y="172.7" class="a">                   @@@@@@@@@@@@@%:                -@@@@@@@@@@@%                   </text>
-<text x="8" y="178.8" class="a">                    .#@@@@@@@@@@@@@@@@@#=---+%@@@@@@@@@@@@@@@+                    </text>
-<text x="8" y="184.9" class="a">                      .#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*                       </text>
-<text x="8" y="191.0" class="a">                         *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.                        </text>
-<text x="8" y="197.1" class="a">                            .%@@@@@@@@@@@@@@@@@@@@@@%=                            </text>
-<text x="8" y="203.2" class="a">                                -++#@@@@@@@@@@%*.                                 </text>
-<text x="315.15999999999997" y="20.6" class="t">crewroom@local </text><text x="423.9" y="20.6" class="d">───────────────────────────────────────────</text>
-<text x="315.15999999999997" y="40.6" class="m"> . What: </text><text x="380.4" y="40.6" class="d">......</text><text x="423.9" y="40.6" class="v" font-size="12">one desktop app for all your coding agents</text>
-<text x="315.15999999999997" y="60.6" class="m"> . Agents: </text><text x="394.9" y="60.6" class="d">................</text><text x="510.9" y="60.6" class="v" font-size="12">Claude Code · Codex · and more</text>
-<text x="315.15999999999997" y="80.6" class="m"> . Isolation: </text><text x="416.7" y="80.6" class="d">...........</text><text x="496.4" y="80.6" class="v" font-size="12">one task = one worktree = one PR</text>
-<text x="315.15999999999997" y="100.6" class="m"> . Crew: </text><text x="380.4" y="100.6" class="d">.................</text><text x="503.7" y="100.6" class="v" font-size="12">orchestrator, bots, merge train</text>
-<text x="315.15999999999997" y="120.6" class="m"> . Insight: </text><text x="402.2" y="120.6" class="d">..........</text><text x="474.7" y="120.6" class="v" font-size="12">cost, context and quota per session</text>
-<text x="315.15999999999997" y="140.6" class="m"> . Memory: </text><text x="394.9" y="140.6" class="d">..............</text><text x="496.4" y="140.6" class="v" font-size="12">shared across agents, local only</text>
-<text x="315.15999999999997" y="160.6" class="m"> . Stack: </text><text x="387.7" y="160.6" class="d">...............</text><text x="496.4" y="160.6" class="v" font-size="12">TypeScript · Bun · React · Tauri</text>
-<text x="315.15999999999997" y="180.6" class="m"> . Privacy: </text><text x="402.2" y="180.6" class="d">...................................</text><text x="655.9" y="180.6" fill="#4CC38A" font-size="12">100% local</text>
-<text x="315.15999999999997" y="200.6" class="m"> . Status: </text><text x="394.9" y="200.6" class="d">.....................</text><text x="547.2" y="200.6" class="v" font-size="12">building · not public yet</text>
+<text x="8" y="17.4" class="a">                                      :--:                                        </text>
+<text x="8" y="23.5" class="a">                               -*@@@@@@@@@@@@@#=-:                                </text>
+<text x="8" y="29.6" class="a">                           :#@@@@@@@@@@@@@@@@#**=---.                             </text>
+<text x="8" y="35.7" class="a">                         *@@@@@@@@@@@@@@@@@@@@@@@@%=                              </text>
+<text x="8" y="41.8" class="a">                      :@@@@@@@@@@@@@@@@@@@#=+##@@@@@-.                            </text>
+<text x="8" y="47.9" class="a">                    -@@@@@@@@@@@@@@:              .*@@@*:=.                       </text>
+<text x="8" y="54.0" class="a">                   %@@@@@@@@@@@@-                     .=*+                        </text>
+<text x="8" y="60.1" class="a">                 -@@@@@@@@@@*.                            --                      </text>
+<text x="8" y="66.2" class="a">                =@@@@@@@@@@-                               --                     </text>
+<text x="8" y="72.3" class="a">               -@@@@@@@@@-                                   .                    </text>
+<text x="8" y="78.4" class="a">               @@@@@@@@@-               -*+-                                      </text>
+<text x="8" y="84.5" class="a">              @@@@@@@@@*              %@@@@@@+                                    </text>
+<text x="8" y="90.5" class="a">             *@@@@@@@@*              =@@@@@@@@                                    </text>
+<text x="8" y="96.6" class="a">             @@@@@@@@@:              :@@@@@@@*                     +              </text>
+<text x="8" y="102.7" class="a">            .@@@@@@@@-                 %@@@@:                    :+@@             </text>
+<text x="8" y="108.8" class="a">            #@@@@@@@@                                            %@@@-            </text>
+<text x="8" y="114.9" class="a">            %@@@@@@@@.                                           %@@@@            </text>
+<text x="8" y="121.0" class="a">            =@@@@@@@@-                                          .@@@@@            </text>
+<text x="8" y="127.1" class="a">            :@@@@@@@@=        *@@@@-            #@@@%:          *@@@@@            </text>
+<text x="8" y="133.2" class="a">             @@@@@@@@+      :@@@@@@@=         .@@@@@@@*        :@@@@@@            </text>
+<text x="8" y="139.3" class="a">             @@@@@@@@@      +@@@@@@@#         *@@@@@@@*        =@@@@@@            </text>
+<text x="8" y="145.4" class="a">             :@@@@@@@@*      @@@@@@@           @@@@@@#        +@@@@@@-            </text>
+<text x="8" y="151.5" class="a">              @@@@@@@@@-       =#=               +*:         =*@@@@@#             </text>
+<text x="8" y="157.6" class="a">              .@@@@@@@@@-                                   *@@@@@@@              </text>
+<text x="8" y="163.7" class="a">               :@@@@@@@@@#                                =@@@@@@@@               </text>
+<text x="8" y="169.8" class="a">                +@@@@@@@@@@%                            =@@@@@@@@#                </text>
+<text x="8" y="175.9" class="a">                 -@@@@@@@@@@@@=                      :*@@@@@@@@@.                 </text>
+<text x="8" y="182.0" class="a">                   @@@@@@@@@@@@@%:                -@@@@@@@@@@@%                   </text>
+<text x="8" y="188.1" class="a">                    .#@@@@@@@@@@@@@@@@@#=---+%@@@@@@@@@@@@@@@+                    </text>
+<text x="8" y="194.2" class="a">                      .#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*                       </text>
+<text x="8" y="200.3" class="a">                         *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*.                        </text>
+<text x="8" y="206.4" class="a">                            .%@@@@@@@@@@@@@@@@@@@@@@%=                            </text>
+<text x="8" y="212.5" class="a">                                -++#@@@@@@@@@@%*.                                 </text>
+<text x="315.15999999999997" y="20.0" class="t">crewroom@local </text><text x="423.9" y="20.0" class="d">───────────────────────────────────────────</text>
+<text x="315.15999999999997" y="40.0" class="m"> . What: </text><text x="380.4" y="40.0" class="d">......</text><text x="423.9" y="40.0" class="v" font-size="12">one desktop app for all your coding agents</text>
+<text x="315.15999999999997" y="60.0" class="m"> . Agents: </text><text x="394.9" y="60.0" class="d">................</text><text x="510.9" y="60.0" class="v" font-size="12">Claude Code · Codex · and more</text>
+<text x="315.15999999999997" y="80.0" class="m"> . Isolation: </text><text x="416.7" y="80.0" class="d">...........</text><text x="496.4" y="80.0" class="v" font-size="12">one task = one worktree = one PR</text>
+<text x="315.15999999999997" y="100.0" class="m"> . Crew: </text><text x="380.4" y="100.0" class="d">.................</text><text x="503.7" y="100.0" class="v" font-size="12">orchestrator, bots, merge train</text>
+<text x="315.15999999999997" y="120.0" class="m"> . Insight: </text><text x="402.2" y="120.0" class="d">..........</text><text x="474.7" y="120.0" class="v" font-size="12">cost, context and quota per session</text>
+<text x="315.15999999999997" y="140.0" class="m"> . Memory: </text><text x="394.9" y="140.0" class="d">..............</text><text x="496.4" y="140.0" class="v" font-size="12">shared across agents, local only</text>
+<text x="315.15999999999997" y="160.0" class="m"> . Stack: </text><text x="387.7" y="160.0" class="d">...............</text><text x="496.4" y="160.0" class="v" font-size="12">TypeScript · Bun · React · Tauri</text>
+<text x="315.15999999999997" y="180.0" class="m"> . Privacy: </text><text x="402.2" y="180.0" class="d">...................................</text><text x="655.9" y="180.0" fill="#4CC38A" font-size="12">100% local</text>
+<text x="315.15999999999997" y="200.0" class="m"> . AI spend this month: </text><text x="489.2" y="200.0" class="d">...................</text><text x="626.9" y="200.0" fill="#4CC38A" font-size="12">$469 API-equiv</text>
+<text x="315.15999999999997" y="220.0" class="m"> . Status: </text><text x="394.9" y="220.0" class="d">.....................</text><text x="547.2" y="220.0" class="v" font-size="12">building · not public yet</text>
 </svg>
