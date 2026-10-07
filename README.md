@@ -34,6 +34,11 @@ Durable, local-first memory for AI agents. Not a vector store: Eywa distils conv
 <p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/bb4a776c3e5eb163b51684dcdbbd04e95a7392a8/assets/card-eywa.svg" alt="eywa@local" width="780" /></p>
 <p align="center"><a href="https://eywa.to"><img src="https://img.shields.io/badge/eywa.to-3FBDB4?style=flat-square&logo=safari&logoColor=white" alt="eywa.to" /></a> <a href="https://arxiv.org/abs/2605.30771"><img src="https://img.shields.io/badge/paper-arXiv:2605.30771-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv paper" /></a></p>
 
+### Crewroom
+One desktop app to run all your coding agents. One task is one session, one git worktree and one PR, with a live board and cost, context and quota for every session.
+
+<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/38ffda6d6a915fe523cfe25fd0f8f3d93e836cda/assets/card-crewroom.svg" alt="crewroom@local" width="780" /></p>
+
 ## How I actually work
 
 - 3 to 4 Claude Code sessions in parallel, every day. The panel below is what that looks like.
