@@ -7,7 +7,7 @@ from datetime import datetime, timezone
 
 REPO = os.path.expanduser("~/Projects/iamtoruk")
 ART = {n: open(os.path.join(REPO, "assets", f"art-{n}.txt")).read().rstrip("\n").split("\n")
-       for n in ("identity", "codeburn", "eywa")}
+       for n in ("identity", "codeburn", "eywa", "crewroom")}
 
 def run(cmd, **kw):
     return subprocess.run(cmd, capture_output=True, text=True, check=True, **kw).stdout
@@ -107,6 +107,14 @@ card("card-eywa.svg", "eywag", "eywa@local", ART["eywa"], [
     ("Stack", "TypeScript · Python · MCP"), ("AI spend this month", f"${proj['eywa']:,.0f} API-equiv"),
     ("Status", "building · still in the forge"),
 ], "#3FBDB4", [("0%", "#7FE8C9"), ("60%", "#3FBDB4"), ("100%", "#1e7a74")])
+
+card("card-crewroom.svg", "crwg", "crewroom@local", ART["crewroom"], [
+    ("What", "one desktop app for all your coding agents"), ("Agents", "Claude Code · Codex · and more"),
+    ("Isolation", "one task = one worktree = one PR"), ("Crew", "orchestrator, bots, merge train"),
+    ("Insight", "cost, context and quota per session"), ("Memory", "shared across agents, local only"),
+    ("Stack", "TypeScript · Bun · React · Tauri"), ("Privacy", "100% local"),
+    ("Status", "building · not public yet"),
+], "#4CC38A", [("0%", "#A6F0B0"), ("50%", "#4CC38A"), ("100%", "#1f7a55")])
 
 # usage panel
 PCOL = {"claude": "#F0793B", "codex": "#6BCB77", "kimicode": "#B08BEB", "grok": "#6BCB77"}
