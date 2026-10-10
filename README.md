@@ -18,25 +18,25 @@
 
 7 years of writing embedded C++ for self-driving cars. A detour through Web3. Now writing probes that break AI agents before someone else does. Open source by default, because most AI security tooling costs more than the agent it's protecting.
 
-<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/8a0de35a36d050fad25355ca0e82c07f4a08a147/assets/card-identity.svg" alt="iamtoruk@github" width="780" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/7de9bf4da9f542b902535e205ac34ce2271e290f/assets/card-identity.svg" alt="iamtoruk@github" width="780" /></p>
 
 ## What I'm building
 
 ### Codeburn
 CodeBurn tracks token usage, cost, and performance across 40 AI coding tools.
 
-<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/8a0de35a36d050fad25355ca0e82c07f4a08a147/assets/card-codeburn.svg" alt="codeburn@local" width="780" /></p>
-<p align="center"><a href="https://codeburn.app"><img src="https://img.shields.io/badge/codeburn.app-E05D1A?style=flat-square&logo=safari&logoColor=white" alt="codeburn.app" /></a> <a href="https://github.com/getagentseal/codeburn"><img src="https://img.shields.io/badge/GitHub-11,361★-181717?style=flat-square&logo=github" alt="repo" /></a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/7de9bf4da9f542b902535e205ac34ce2271e290f/assets/card-codeburn.svg" alt="codeburn@local" width="780" /></p>
+<p align="center"><a href="https://codeburn.app"><img src="https://img.shields.io/badge/codeburn.app-E05D1A?style=flat-square&logo=safari&logoColor=white" alt="codeburn.app" /></a> <a href="https://github.com/getagentseal/codeburn"><img src="https://img.shields.io/badge/GitHub-11,371★-181717?style=flat-square&logo=github" alt="repo" /></a></p>
 
 ### Crewroom
 One desktop app to run all your coding agents. One task is one session, one git worktree and one PR, with a live board and cost, context and quota for every session.
 
-<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/8a0de35a36d050fad25355ca0e82c07f4a08a147/assets/card-crewroom.svg" alt="crewroom@local" width="780" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/7de9bf4da9f542b902535e205ac34ce2271e290f/assets/card-crewroom.svg" alt="crewroom@local" width="780" /></p>
 
 ### Eywa
 Durable, local-first memory for AI agents. Not a vector store: Eywa distils conversations into atomic facts, each carrying the verbatim quote it came from, links them into a knowledge graph, and supersedes stale values as the world changes. It consolidates in the background while nothing is running, like dreaming. High-stakes facts keep their provenance, so a poisoned memory gets caught instead of obeyed. Agents wake up knowing what they knew.
 
-<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/8a0de35a36d050fad25355ca0e82c07f4a08a147/assets/card-eywa.svg" alt="eywa@local" width="780" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/7de9bf4da9f542b902535e205ac34ce2271e290f/assets/card-eywa.svg" alt="eywa@local" width="780" /></p>
 <p align="center"><a href="https://eywa.to"><img src="https://img.shields.io/badge/eywa.to-3FBDB4?style=flat-square&logo=safari&logoColor=white" alt="eywa.to" /></a> <a href="https://arxiv.org/abs/2605.30771"><img src="https://img.shields.io/badge/paper-arXiv:2605.30771-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv paper" /></a></p>
 
 ## How I actually work
@@ -47,7 +47,7 @@ Durable, local-first memory for AI agents. Not a vector store: Eywa distils conv
 - 10+ hour days. Germany. Mac only. Coffee.
 - Agentic engineering, not vibe coding. Seven years of debugging embedded C on autonomous vehicles taught me exactly where things break. AI lets me ship faster. It does not let me ship sloppy.
 
-<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/8a0de35a36d050fad25355ca0e82c07f4a08a147/assets/card-usage.svg" alt="this month, measured by codeburn" width="760" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/7de9bf4da9f542b902535e205ac34ce2271e290f/assets/card-usage.svg" alt="this month, measured by codeburn" width="760" /></p>
 <p align="center"><sub>measured, not vibes: my own usage, tracked by CodeBurn, updated nightly</sub></p>
 
 ## Connect
