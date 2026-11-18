@@ -32,6 +32,7 @@ CodeBurn tracks token usage, cost, and performance across 40 AI coding tools.
 One desktop app to run all your coding agents. One task is one session, one git worktree and one PR, with a live board and cost, context and quota for every session.
 
 <p align="center"><img src="https://raw.githubusercontent.com/iamtoruk/iamtoruk/9b6c7633ae6111d3a633b25594a5faef3add75a2/assets/card-crewroom.svg" alt="crewroom@local" width="780" /></p>
+<p align="center"><a href="https://crewroom.dev"><img src="https://img.shields.io/badge/crewroom.dev-4CC38A?style=flat-square&logo=safari&logoColor=white" alt="crewroom.dev" /></a></p>
 
 ### Eywa
 Durable, local-first memory for AI agents. Not a vector store: Eywa distils conversations into atomic facts, each carrying the verbatim quote it came from, links them into a knowledge graph, and supersedes stale values as the world changes. It consolidates in the background while nothing is running, like dreaming. High-stakes facts keep their provenance, so a poisoned memory gets caught instead of obeyed. Agents wake up knowing what they knew.

@@ -30,8 +30,11 @@ top3 = sorted(prov.items(), key=lambda kv: -kv[1])[:3]
 proj = {"eywa": 0.0, "codeburn": 0.0, "crewroom": 0.0}
 for p in (month.get("projects") or []):
     n = (p.get("project") or p.get("name") or "").lower()
+    path = (p.get("path") or "").lower()
     for k in proj:
-        if k in n: proj[k] += p.get("cost", 0)
+        if k in n or k in path: proj[k] += p.get("cost", 0)
+    if n == "cue" or "/projects/cue" in path:
+        proj["crewroom"] += p.get("cost", 0)
 daily = [(d.get("cost") or 0) for d in (month.get("daily") or [])][-14:] or [0]
 peak = max(daily) or 1
 spark = "".join("▁▂▃▄▅▆▇█"[min(7, int(v / peak * 7.99))] for v in daily)
